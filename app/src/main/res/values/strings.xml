@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Labsheeet12</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Radio_Student">Student</string>
+    <string name="Radio_Teacher">Teacher</string>
+    <string name="button_register">Register</string>
+    <string name="Activity_Register">Register Activity</string>
+    <string name="Welcome_Username">Welcome UserName</string>
+    <string name="Subject_">Subject</string>
+    <string name="Message_">Message</string>
+    <string name="Send_button">Send</string>
+    <string name="UName">UserName</string>
+    <string name="Pass">Password</string>
+    <string name="btn_Login">Login</string>
+    <string name="btn_Register" />
+    <string name="App_Name">The Course App</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">channel description</string>
+</resources>
